@@ -1,0 +1,9 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "text": "Lavar a roupa",
+      "done": true
+    }
+  ]
+}
